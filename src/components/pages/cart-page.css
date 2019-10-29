@@ -1,0 +1,11 @@
+.cartItems {
+  margin-top: 20px;
+}
+
+.cartItems tbody .buttons {
+  justify-content: flex-start;
+}
+
+.cartItems tbody button {
+  margin-left: 5px;
+}

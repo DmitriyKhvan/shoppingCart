@@ -1,0 +1,25 @@
+.store-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid gray
+}
+
+.store-logo a{
+  font-size: 2rem;
+  color: #131010;
+}
+
+.store-logo:hover a{
+  text-decoration: none;
+  color: gray;
+}
+
+.store-cart {
+  font-size: 1.1rem;
+}
+
+.store-cart a{
+  margin-right: 15px;
+  font-size: 2rem;
+}
